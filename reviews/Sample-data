@@ -14,3 +14,4 @@ Due to GitHub’s file size and storage limitations, the original file has been 
 If you're interested in working with the entire dataset:
 - You can request access or reconstruct the full dataset by combining all 100 parts (not all are hosted here).
 - The sample here is sufficient to run smaller-scale tests, build pipeline demos, or validate schema and structure.
+- Full Data: https://business.yelp.com/data/resources/open-dataset/
