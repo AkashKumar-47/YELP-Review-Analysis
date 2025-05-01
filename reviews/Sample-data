@@ -1,17 +1,17 @@
-## 📄 About This Sample Dataset
-
+# 📄 About This Sample Dataset
 This folder contains **20 sample files** that are part of a larger dataset originally sized at approximately **5 GB**.
 
-### 🔹 Why is the data split?
-Due to GitHub’s file size and storage limitations, the original file has been **split into 100 smaller parts**, each approximately **50 MB** in size. These parts were created to make the data manageable and accessible for analysis, storage, and processing.
+## 🔹 Why is the data split?
+Due to GitHub’s file size and storage limitations, the original file has been **split into 100 smaller parts**, each approximately **50 MB** in size. 
+These parts were created to make the data manageable and accessible for analysis, storage, and processing.
 
-### 🔹 What does this folder contain?
+## 🔹 What does this folder contain?
 - **20 out of the 100 total parts** are included here as a representative **sample**.
 - These files are named sequentially (e.g., `yelp_part_01.json`, `yelp_part_02.json`, ..., `yelp_part_20.json`).
 - Each file maintains the original structure and schema of the complete dataset.
 
-### 🔹 How to use the full dataset?
+## 🔹 How to use the full dataset?
 If you're interested in working with the entire dataset:
 - You can request access or reconstruct the full dataset by combining all 100 parts (not all are hosted here).
 - The sample here is sufficient to run smaller-scale tests, build pipeline demos, or validate schema and structure.
-- Full Data: https://business.yelp.com/data/resources/open-dataset/
+- Full Data🔗: **https://business.yelp.com/data/resources/open-dataset/**
