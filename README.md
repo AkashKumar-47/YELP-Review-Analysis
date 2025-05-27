@@ -5,7 +5,7 @@ This project focuses on analyzing large-scale review data from the Yelp website,
 
 ### 1. Requirement Gathering & Objective Definition
 - Identified analytical goals: sentiment trends, popular categories, user behavior, business performance, etc.  
-- Defined KPIs and business questions relevant to stakeholders (e.g., review volume, average ratings, top businesses).
+- Business questions relevant to stakeholders (e.g., review volume, average ratings, top businesses).
 
 ### 2. Data Acquisition
 - Downloaded Yelp's public dataset in **JSON** format, which includes data on businesses, reviews, users, and check-ins.
@@ -33,12 +33,10 @@ This project focuses on analyzing large-scale review data from the Yelp website,
 
 ### 8. Insight Generation & Reporting
 - Derived key metrics: average ratings per category, top-performing cities, frequent reviewers, sentiment trends.  
-- Optionally visualized insights via tools like **Power BI**, **Tableau**, or **Streamlit**.
 
 ### 9. Scalability & Optimization
 - Applied clustering keys, query profiling, and data partitioning in Snowflake for performance tuning.  
 - Ensured that the pipeline supports future automation and scaling as data grows.
-
 
 ## 🔍 Real-World Problem Statements Solved
 As part of the Yelp Reviews Analysis, the following real-world data challenges were addressed using SQL queries on the Snowflake platform:
